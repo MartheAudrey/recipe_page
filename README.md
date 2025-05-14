@@ -25,8 +25,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontmentor solution](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
+- Live Site URL: [What I did](https://martheaudrey.github.io/recipe_page/)
 
 ## My process
 
@@ -42,9 +42,7 @@
 
 ### What I learned
 
-1. An <h1> element that is a descendant of either <articlce>, <aside>, <nav> or <section> element,
-    has a font size set to a default of 1.17em by the user agent stylesheet of Chrome's webkit. I had to 
-    specify the size of the <h1> element in my custom stylesheet.
+1. An h1 element that is a descendant of either article, aside, nav or section element,has a font size set to a default of 1.17em by the user agent stylesheet of Chrome's webkit. I had to specify the size of the h1 element in my custom stylesheet.
 
     ```css
     .title-description-container h1{
@@ -78,7 +76,7 @@ In next projects I would like to learn new CSS properties and concepts.
 
 ### Useful resources
 
-- [Why <h1> elements appear smaller in <section> elements](https://maryamakodu.hashnode.dev/why-h1-elements-appear-smaller-in-section-elements) - This helped me to understand why my <h1> didn't display as it ought to. The topic is well explained. I recommend it.
+- [Why h1 elements appear smaller in <section> elements](https://maryamakodu.hashnode.dev/why-h1-elements-appear-smaller-in-section-elements) - This helped me to understand why my <h1> didn't display as it ought to. The topic is well explained. I recommend it.
 - [Change bullet color of list](https://www.w3schools.com/HOWTO/howto_css_bullet_color.asp) - This course by W3schools helped to change the color of my list's bullets.
 - [border-style](https://developer.mozilla.org/en-US/docs/Web/CSS/border-style#values) - I learnt how to use border-style property. It was a first for me.
 
